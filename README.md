@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá👋
+Meu nome é Vitor Caires, sou estudante de Análise e Desenvolvimento de Sistemas e tenho focado meus estudos principalmente em ferramentas e métodos para a área de Dados.
 
-<!--
-**VitorCaires/VitorCaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Minhas principais ferramentas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Here are some ideas to get you started:
+### Atualmente aprendendo:
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em contato comigo:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitor-caires-da-silva)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](vc.silva2020@outlook.com)
